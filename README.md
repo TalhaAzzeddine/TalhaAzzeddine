@@ -59,7 +59,6 @@ Check out my game development portfolio here:
 ---
 
 ## 🏆 GitHub Trophies - Senior Unity Developer  
-![](https://github-profile-trophy.vercel.app/?username=TalhaAzzeddine&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Senior%20Developer)
 
 ---
 
@@ -69,7 +68,7 @@ Check out my game development portfolio here:
 ---
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://meme-api.com/gimme/programmingmemes" width="512px"/>
 
 ---
 
