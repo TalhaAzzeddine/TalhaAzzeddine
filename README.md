@@ -4,13 +4,19 @@ Hi there! I'm **Azzeddine Talha**, a passionate **Game Designer & Developer** wi
 
 ### 👨‍💻 What I Do:
 - ✅ Develop 2D & 3D games using **Unity** and **C#**
-- ✅ Created **6+ mobile games** and **3 PC games**
+- ✅ Created **11+ Web, mobile games**, **PC games**, and ""WEB3"" 
 - ✅ Design game UI/UX tailored for any genre or platform
 - ✅ Write comprehensive **Game Design Documents** (GDDs)
 - ✅ Manage game projects from planning to publishing
 - ✅ Possess intermediate skills in **3D Modeling** (Blender)
 
 💬 I value clear and regular communication — let's make something awesome together!
+
+---
+
+## 📁 Portfolio  
+Check out my game development portfolio here:  
+🔗 [Click to View Portfolio](https://drive.google.com/file/d/1fWmPiL6D9ja-Y2ARObAVNGUaMxQpr9wi/view?usp=sharing)
 
 ---
 
