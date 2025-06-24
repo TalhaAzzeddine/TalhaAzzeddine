@@ -1,16 +1,24 @@
 # 💫 About Me
 
-Hi there! I'm **Azzeddine Talha**, a passionate **Game Designer & Developer** with years of experience crafting engaging games for **mobile and PC** using **Unity Engine**. Working as Unity Lead Dev at **A314LAB** Whether you're looking to build a game from scratch, enhance an existing one, or need help bringing your idea to life — I'm here to help!
+Hi there! I'm Azzeddine Talha, a passionate Unity Lead Developer & Project Manager specializing in VR/AR, UX, and backend systems. With 4+ years of experience, I’ve been crafting engaging 2D & 3D games for mobile and PC. Currently, I’m building immersive interactive experiences at Snack Groupe! 
 
-### 👨‍💻 What I Do:
-- ✅ Develop 2D & 3D games using **Unity** and **C#**
-- ✅ Created **11+ Web, mobile games**, **PC games**, and ""WEB3"" 
-- ✅ Design game UI/UX tailored for any genre or platform
-- ✅ Write comprehensive **Game Design Documents** (GDDs)
-- ✅ Manage game projects from planning to publishing
-- ✅ Possess intermediate skills in **3D Modeling** (Blender)
 
-💬 I value clear and regular communication — let's make something awesome together!
+👨‍💻 What I Do:
+✅ Lead development of 2D & 3D games using Unity and C#
+
+✅ Built 11+ web and mobile games, PC titles, and Web3-integrated projects
+
+✅ Designed UI/UX tailored for various genres and platforms, including VR/AR
+
+✅ Write and maintain comprehensive Game Design Documents (GDDs)
+
+✅ Manage full game lifecycle—from planning to launch—as Project Manager
+
+✅ Develop backend systems and implement server-side logic
+
+✅ Possess intermediate skills in 3D modeling (Blender)
+
+💬 I value crystal-clear communication and collaborative teamwork — let’s bring your next game to life together!
 
 ---
 
