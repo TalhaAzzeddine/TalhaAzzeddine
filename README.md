@@ -24,7 +24,7 @@ Hi there! I'm Azzeddine Talha, a passionate Unity Lead Developer & Project Manag
 
 ## 📁 Portfolio  
 Check out my game development portfolio here:  
-🔗 [Click to View Portfolio](https://azzeddine-talha.me/assets/cv&portfolio/Azzeddine_Talha%20Portfolio.pdf)
+🔗 [Click to View Portfolio](https://azzeddine-talha.me/assets/files/Azzeddine_Talha%20Portfolio.pdf)
 
 ---
 
