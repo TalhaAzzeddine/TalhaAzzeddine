@@ -1,38 +1,39 @@
 # 💫 About Me
 
-Hi there! I'm Azzeddine Talha, a passionate Unity Lead Developer & Project Manager specializing in VR/AR, UX, and backend systems. With 4+ years of experience, I’ve been crafting engaging 2D & 3D games for mobile and PC. Currently, I’m building immersive interactive experiences at Snack Groupe! 
+Hi! Azzeddine Talha here, Unity Developer & 3D designer working on games & interactive experience for living.
 
 
 👨‍💻 What I Do:
 ✅ Lead development of 2D & 3D games using Unity and C#
 
-✅ Built 11+ web and mobile games, PC titles, and Web3-integrated projects
+✅ Built 11+ web and mobile games, PC titles
 
-✅ Designed UI/UX tailored for various genres and platforms, including VR/AR
+✅ VR/AR developmenet
+
+✅ Designed UI/UX tailored for various genres and platforms.
 
 ✅ Write and maintain comprehensive Game Design Documents (GDDs)
 
 ✅ Manage full game lifecycle—from planning to launch—as Project Manager
 
-✅ Develop backend systems and implement server-side logic
+✅ Develop backend systems & multiplayer and implement server-side logic
 
-✅ Possess intermediate skills in 3D modeling (Blender)
+✅ Skills in 3D modeling (Blender)
 
 💬 I value crystal-clear communication and collaborative teamwork — let’s bring your next game to life together!
 
 ---
 
 ## 📁 Portfolio  
-Check out my game development portfolio here:  
-🔗 [Click to View Portfolio](https://azzeddine-talha.me/assets/files/Azzeddine_Talha%20Portfolio.pdf)
+Check out my game development portfolio & cv here:  
+🔗 [Click to View CV](https://azzeddine-talha.me/pdf/Azzeddine_Talha_cv.pdf)
+🔗 [Click to View Portfolio](https://azzeddine-talha.me/pdf/Azzeddine_Talha%20Portfolio.pdf)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Azz.Tlh.1897)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azzeddine.talha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azzeddine-talha-796a98254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azzeddine-talha-me/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TalhaAzzeddine)
 
 ---
