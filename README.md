@@ -1,4 +1,6 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TalhaAzzeddine)
+![GitHub Followers](https://shields.io)
+![GitHub Stars](https://shields.io)
 
 # 💫 About Me
 
