@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TalhaAzzeddine)
+
 # 💫 About Me
 
 Hi! Azzeddine Talha here, Unity Developer & 3D designer working on games & interactive experience for living.
