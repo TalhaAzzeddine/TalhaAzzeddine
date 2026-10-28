@@ -4,6 +4,7 @@ Hi! Azzeddine Talha here, Unity Developer & 3D designer working on games & inter
 
 
 👨‍💻 What I Do:
+
 ✅ Lead development of 2D & 3D games using Unity and C#
 
 ✅ Built 11+ web and mobile games, PC titles
