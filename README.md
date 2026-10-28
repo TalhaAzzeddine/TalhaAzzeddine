@@ -13,13 +13,13 @@ Hi! Azzeddine Talha here, Unity Developer & 3D designer working on games & inter
 
 ✅ Write and maintain comprehensive Game Design Documents (GDDs)
 
-✅ Manage full game lifecycle—from planning to launch—as Project Manager
+✅ Manage full game lifecycle from planning to launch as Project Manager
 
 ✅ Develop backend systems & multiplayer and implement server-side logic
 
 ✅ Skills in 3D modeling (Blender)
 
-💬 I value crystal-clear communication and collaborative teamwork — let’s bring your next game to life together!
+💬 I value crystal-clear communication and collaborative teamwork — let’s bring your next project to life together!
 
 ---
 
